@@ -1,0 +1,14 @@
+.link{
+    margin: 20px;
+    color: #c9318b;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+
+.link__variant{
+    background-color: #c3167c;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
